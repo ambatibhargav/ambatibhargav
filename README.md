@@ -1,10 +1,10 @@
-img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."
 
 Hi 👋 My name is Ambati Bhargav
 ===============================
 
 Web Developer | Ethical Hacker
 ------------------------------
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 An Undergraduate student in the department of Electronics and Communications Engineering. Ever since I was a child I had a instinctive urge for expansion and growth. The discipline of gratitude is the explicit effort to acknowledge and it has given me a gift of love and joy. My mission in life is not merely to survive, but to thrive and to do with some passion, some compassion, some humor and some style. Your present circumstances don't determine where you can go thes merely determine where you start.
 

@@ -1,8 +1,8 @@
 
-Hi 👋 My name is Ambati Bhargav
+Hi 👋 My name is Bhargav Ambati
 ===============================
 
-Web Developer | Ethical Hacker
+ Data Scientist| Data Analysis | Data Visualization | Web Developer | Ethical Hacker
 ------------------------------
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 

@@ -5,7 +5,6 @@ Hi 👋 My name is Bhargav Ambati
  Data Scientist | Data Analysis | Data Visualization | SQL | Database Management | Data Pipelines | ETL
 ------------------------------
 
-
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <br />
@@ -15,7 +14,7 @@ As a passionate Data Scientist, I thrive on uncovering patterns and insights fro
 * 🖥️  See my portfolio at [My Portfolio](http://ambatibhargav.github.io/Portfolio/)
 * ✉️  You can contact me at [ambatibhargav06@gmail.com](mailto:ambatibhargav06@gmail.com)
 * 🧠  I'm learning Machine Learning, Data Analysis, Big Data Technologies, Database Management, Version Control and Cloud Services.
-* 🤝  I'm open to collaborating on Machine Learning Based projects
+* 🤝  I'm open to collaborating on Machine Learning  and Data Engineering Based projects to improve my set of skills.
 
 <a href="https://www.github.com/ambatibhargav" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ambatibhargav?logo=github&style=for-the-badge&color=ffffff&labelColor=1c1917" /></a>
@@ -35,11 +34,11 @@ src="https://img.shields.io/github/followers/ambatibhargav?logo=github&style=for
 </p>
 
 
-### Socials
+### Social Platforms to Connect and Grow Together. 
 
 <p align="left"> <a href="https://www.github.com/ambatibhargav" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/ambati_06/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ambati-bhargav-b0318a191" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Badges
+### Badges and the achievements that I have earned while my journey 
 
 [![@ambatibhargav's Holopin board](https://holopin.me/ambatibhargav)](https://holopin.io/@ambatibhargav)
 

@@ -2,16 +2,19 @@
 Hi 👋 My name is Bhargav Ambati
 ===============================
 
- Data Scientist| Data Analysis | Data Visualization | Web Developer | Ethical Hacker
+ Data Scientist | Data Analysis | Data Visualization | SQL | Database Management | Data Pipelines | ETL
 ------------------------------
+
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-An Undergraduate student in the department of Electronics and Communications Engineering. Ever since I was a child I had a instinctive urge for expansion and growth. The discipline of gratitude is the explicit effort to acknowledge and it has given me a gift of love and joy. My mission in life is not merely to survive, but to thrive and to do with some passion, some compassion, some humor and some style. Your present circumstances don't determine where you can go thes merely determine where you start.
+<br />
 
-* 🌍  I'm based in India
+As a passionate Data Scientist, I thrive on uncovering patterns and insights from complex datasets to drive strategic decisions. My expertise lies in leveraging machine learning algorithms, statistical analysis, and data visualization tools to build predictive models that solve real-world problems. With a strong foundation in Python, R, and SQL, I have successfully led projects in various domains, including finance, healthcare, and e-commerce. I am committed to continuous learning and staying ahead in the rapidly evolving field of data science.
+
 * 🖥️  See my portfolio at [My Portfolio](http://ambatibhargav.github.io/Portfolio/)
 * ✉️  You can contact me at [ambatibhargav06@gmail.com](mailto:ambatibhargav06@gmail.com)
-* 🧠  I'm learning Machine Learning
+* 🧠  I'm learning Machine Learning, Data Analysis, Big Data Technologies, Database Management, Version Control and Cloud Services.
 * 🤝  I'm open to collaborating on Machine Learning Based projects
 
 <a href="https://www.github.com/ambatibhargav" target="_blank" rel="noreferrer"><img

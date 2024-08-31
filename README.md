@@ -5,8 +5,8 @@ Hi 👋 My name is Bhargav Ambati
  Data Scientist | Data Analysis | Data Visualization | SQL | Database Management | Data Pipelines | ETL
 ------------------------------
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
+<br> 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
 <br />
 
 As a passionate Data Scientist, I thrive on uncovering patterns and insights from complex datasets to drive strategic decisions. My expertise lies in leveraging machine learning algorithms, statistical analysis, and data visualization tools to build predictive models that solve real-world problems. With a strong foundation in Python, R, and SQL, I have successfully led projects in various domains, including finance, healthcare, and e-commerce. I am committed to continuous learning and staying ahead in the rapidly evolving field of data science.
@@ -14,12 +14,12 @@ As a passionate Data Scientist, I thrive on uncovering patterns and insights fro
 * 🖥️  See my portfolio at [My Portfolio](http://ambatibhargav.github.io/Portfolio/)
 * ✉️  You can contact me at [ambatibhargav06@gmail.com](mailto:ambatibhargav06@gmail.com)
 * 🧠  I'm learning Machine Learning, Data Analysis, Big Data Technologies, Database Management, Version Control and Cloud Services.
-* 🤝  I'm open to collaborating on Machine Learning  and Data Engineering Based projects to improve my set of skills.
+* 🤝  I'm open to collaborating on Machine Learning  and Data Engineering-Based projects to improve my skills.
 
 <a href="https://www.github.com/ambatibhargav" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ambatibhargav?logo=github&style=for-the-badge&color=ffffff&labelColor=1c1917" /></a>
 
-### Skills
+### Skills that I have gained throughout my learning process 
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
